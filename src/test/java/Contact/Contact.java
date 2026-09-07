@@ -11,6 +11,9 @@ public class Contact{
 	@Test 
 	public void contactwith() {
 		System.out.println("crate contact with email");
-		
+	}
+		@Test 
+		public void DeleteContact() {
+			System.out.println("crate contact with email");
 	}
 }
